@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "nextjs_user",
+    "password": "Password@123",
+    "database": "reactflow_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "nextjs_user",
+    "password": "Password@123",
+    "database": "reactflow_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "nextjs_user",
+    "password": "Password@123",
+    "database": "reactflow_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
